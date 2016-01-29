@@ -1,6 +1,6 @@
 (function (ng) {
   'use strict'
-  ng.module('angular.only.number", [])
+  ng.module('angularOnlyNumber", [])
     .directive('ng-only-number', function () {
       // this directive allowes only numbers with decimal point.
       // You can specify the max decimal points using data-max-decimal-points in the dom element.
