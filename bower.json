@@ -1,0 +1,13 @@
+{
+  "name": "angular digit directive",
+  "homepage": "https://github.com/jfvaleroso/number-directive.git",
+  "authors": [
+    "Rajesh Paul"
+  ],
+  "description": "directive that allows digit or decimal numbers",
+  "main": "angular-digit-directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT"
+}
